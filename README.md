@@ -13,7 +13,7 @@ Diablo Discord Bot Developer, <img width="30" align="center" src="https://image.
 **Some technologies I use:**
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/-Php-43853d?style=flat-square&logo=Php&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-Php-FF0000?style=flat-square&logo=Php&logoColor=white" />
 
 # Views
 
