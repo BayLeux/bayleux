@@ -10,4 +10,4 @@ Diablo Discord Bot Developer, <img width="20" align="center" src="https://www.fl
 Some technologies I use:
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="HTML" src="https://img.shields.io/badge/HTML-white" />
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-362d59?style=flat-square&logo=html&logoColor=white" />
