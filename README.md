@@ -8,7 +8,7 @@ Diablo Discord Bot Developer, <img width="20" align="center" src="https://image.
 <img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-EB1DD6?style=flat-square&logo=instagram&logoColor=white" /></a> 
 <a href="https://discord.gg/phYbZzchzr" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> 
 <a href="https://steamcommunity.com/id/hasanerdem" target="_blank">
-<img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a>
+<img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a><br>
 
 Some technologies I use:
 
