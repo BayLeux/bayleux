@@ -9,5 +9,5 @@ Diablo Discord Bot Developer, <img width="20" align="center" src="https://www.fl
 
 Some technologies I use:
 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" /><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" /><img alt="mongoDB" src="https://img.shields.io/badge/-mongoDB-4fb23f?style=flat-square&logo=mongodb&logoColor=white"/>
-<img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362d59?style=flat-square&logo=sentry&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/-Sentry-362d59?style=flat-square&logo=sentry&logoColor=white" />
