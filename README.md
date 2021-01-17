@@ -10,6 +10,7 @@ Diablo Discord Bot Developer, <img width="20" align="center" src="https://image.
 <a href="https://steamcommunity.com/id/hasanerdem" target="_blank">
 <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a>
 
+
 Some technologies I use:
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
