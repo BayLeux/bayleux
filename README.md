@@ -1,4 +1,4 @@
-![Views](https://komarev.com/ghpvc/?username=BayLeux&style=flat-square&color=ff69b4)
+# About
 
 Diablo Discord Bot Developer, <img width="30" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> Turkey
 
@@ -14,3 +14,7 @@ Diablo Discord Bot Developer, <img width="30" align="center" src="https://image.
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-Php-43853d?style=flat-square&logo=Php&logoColor=white" />
+
+# Views
+
+![Views](https://komarev.com/ghpvc/?username=BayLeux&style=flat-square&color=ff69b4)
