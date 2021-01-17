@@ -1,6 +1,6 @@
 ![Views](https://komarev.com/ghpvc/?username=BayLeux&style=flat-square&color=ff69b4)
 
-Diablo Discord Bot Developer, <img width="20" align="center" src="https://www.image.flaticon.com/icons/svg/555/555560.svg"> Turkey
+Diablo Discord Bot Developer, <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> Turkey
 
 <a href="https://twitter.com/bayleux" target="_blank">
 <img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> 
